@@ -2035,7 +2035,7 @@ function openCheckout() {
           </button>
 
           <p className="text-xs text-slate-400">
-            AI Shopping Co-pilot • Built for demonstration
+            AI Shopping Co-pilot • Built by Abhishek
           </p>
 
         </div>
